@@ -6,6 +6,6 @@ int main() {
     cout << "Hello, World!" << endl;
     //第二次修改
     cout << "Hello, Git!" << endl;
-    cout<<"branch test1"<<endl;
+    cout<<"branch test2"<<endl;
     return 0;
 }
